@@ -18,10 +18,5 @@ public class Gittie
         {
 			Console.WriteLine("Joke!");
         }
-
-		public void Shout()
-        {
-			Console.WriteLine("AAAAAAA");
-        }
 	}
 }
