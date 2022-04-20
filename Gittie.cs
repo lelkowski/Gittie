@@ -22,6 +22,7 @@ public class Gittie
 		public void Shout()
         {
 			Console.WriteLine("AAAAAAA");
+			Console.WriteLine("I'm yelling really loud");
         }
 	}
 }
