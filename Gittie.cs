@@ -8,5 +8,10 @@ public class Gittie
         {
 			Console.WriteLine("Hello, I'm Gittie!");
         }
+
+		public void Joke()
+        {
+			Console.WriteLine("Joke!");
+        }
 	}
 }
