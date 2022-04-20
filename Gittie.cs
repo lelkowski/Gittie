@@ -18,4 +18,9 @@ public class Gittie
         {
 			Console.WriteLine("Joke!");
         }
-}
+
+		public void Sing()
+		{
+			Console.WriteLine("Hello! It's me");
+		}
+	}
