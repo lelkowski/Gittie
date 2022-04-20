@@ -18,4 +18,9 @@ public class Gittie
         {
 			Console.WriteLine("Joke!");
         }
+
+		public void Sleep()
+        {
+			Console.WriteLine("ZZZZZ");
+        }
 }
